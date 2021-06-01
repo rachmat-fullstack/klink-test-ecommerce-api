@@ -28,40 +28,40 @@ Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di nod
     MASTER PRODUCT <br>
     GET		http://localhost:5000/products			// Menampilkan semua data product <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/show%20all%20product.png">
     
     GET		http://localhost:5000/products/:id		// Menampilkan data product berdasarkan id <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/show%20product%20by%20id.png">
     
     POST	http://localhost:5000/products			// Membuat product baru <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/add%20new%20product.png">
     
     PUT		http://localhost:5000/products/:id		// Update data product berdasarkan id <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/update%20product%20by%20id.png">
     
     DELETE	http://localhost:5000/products/:id		// Hapus data product berdasarkan id <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/delete%20product%20by%20id.png">
     
 
     TRANSACTION <br>
     POST	http://localhost:5000/add-to-cart		// Add product ke dalam Cart	(with redis) <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/add%20to%20cart.png">
     
     POST	http://localhost:5000/show-cart-item	// Menampilkan semua product dari Cart	(with redis) <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/show%20cart%20item.png">
     
     POST	http://localhost:5000/checkout			// Simpan product dari Cart ke dalam Databases <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/checkout.png">
     
     POST	http://localhost:5000/payment-status	// Konfirmasi pembayaran, jika status "PAID" maka otomatis mengurangi jumlah stok product <br>
     
-    <img src="">
+    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/update%20payment%20status.png">
     
 
