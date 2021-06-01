@@ -4,13 +4,13 @@ Navicat MySQL Data Transfer
 Source Server         : localhost MySQL
 Source Server Version : 100119
 Source Host           : 127.0.0.1:3306
-Source Database       : klink-test-ecommerce-api
+Source Database       : klink_test_ecommerce_api
 
 Target Server Type    : MYSQL
 Target Server Version : 100119
 File Encoding         : 65001
 
-Date: 2021-06-01 22:18:52
+Date: 2021-06-01 23:35:45
 */
 
 SET FOREIGN_KEY_CHECKS=0;
