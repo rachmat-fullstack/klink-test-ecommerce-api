@@ -10,7 +10,7 @@ Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di nod
 # Cara Install dan Menjalankan API
 1. Clone source code dari repo ini  <br>
 2. Buat database MySQL dengan nama "klink_test_ecommerce_api"
-3. Import/Restore database file klink_test_ecommerce_api.sql pada directory project <br>
+3. Import/Restore database file "klink_test_ecommerce_api.sql" pada directory project <br>
 4. Install redis server di perangkat Anda dan jalankan service redis server <br>
 
    <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/redis%20server%20on.png">
