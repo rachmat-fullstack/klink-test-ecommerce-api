@@ -60,7 +60,7 @@ Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di nod
     
     <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/checkout.png">
     
-    POST	http://localhost:5000/payment-status	// Konfirmasi pembayaran, jika status "PAID" maka otomatis mengurangi jumlah stok product <br>
+    POST	http://localhost:5000/payment-status	// Konfirmasi pembayaran, jika status "PAID" maka otomatis mengurangi jumlah stok product (pengurangan stock menggunakan trigger MySQL) <br>
     
     <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/update%20payment%20status.png">
     
