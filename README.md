@@ -12,8 +12,12 @@ Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di nod
 2. Buat database MySQL dengan nama "klink_test_ecommerce_api"
 3. Import/Restore database file klink_test_ecommerce_api.sql pada directory project <br>
 4. Install redis server di perangkat Anda dan jalankan service redis server <br>
-5. Install node js dan arahkan ke directory project "klink-test-ecommerce-api". Lalu ketik command <code>node index</code> untuk menjalankan API ini. <br>
-6. Install postman dan jalankan API dibawah ini : <br> <br>
+<img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/redis%20server%20on.png">
+5. Install/Open node js dan arahkan ke directory project "klink-test-ecommerce-api". Lalu ketik command <code>node index</code> untuk menjalankan API ini. <br>
+<img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/run%20code.png">
+Jika API sudah aktif, redis server akan outo connected seperti berikut ini :
+<img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/redis%20server%20auto%20connected%20after%20api%20run.png">
+7. Install postman dan jalankan API dibawah ini : <br> <br>
 
 API MASTER PRODUCT <br>
 GET		http://localhost:5000/products			// Menampilkan semua data product <br>
