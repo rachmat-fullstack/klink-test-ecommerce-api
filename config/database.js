@@ -2,7 +2,7 @@
 import { Sequelize } from "sequelize";
  
 // create connection
-const db = new Sequelize('klink-test-ecommerce-api', 'root', '', {
+const db = new Sequelize('klink_test_ecommerce_api', 'root', '', {
     logging: false,
     host: 'localhost',
     dialect: 'mysql',
