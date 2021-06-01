@@ -1,8 +1,9 @@
 # Environment
-Windows 10 <br>
+Windows 10 64bit <br>
 Node JS v16.2.0 <br>
 NPM 7.15.0 <br>
-DB MySQL <br>
+Redis 2.4.6 <br>
+DB MySQL
 
 # Library
 Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di node js atau open file "package.json" di dalam directory project
