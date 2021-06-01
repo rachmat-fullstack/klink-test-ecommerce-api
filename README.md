@@ -25,7 +25,7 @@ Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di nod
     
 7. Install postman dan jalankan API dibawah ini : <br> <br>
 
-    MASTER PRODUCT <br>
+    <h1>MASTER PRODUCT</h1> <br>
     GET		http://localhost:5000/products			// Menampilkan semua data product <br>
     
     <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/show%20all%20product.png">
@@ -46,8 +46,9 @@ Lihat di dependencies dengan menjalankan command <code>npm init -y</code> di nod
     
     <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/delete%20product%20by%20id.png">
     
+    <br><br>
 
-    TRANSACTION <br>
+    <h1>TRANSACTION</h1> <br>
     POST	http://localhost:5000/add-to-cart		// Add product ke dalam Cart	(with redis) <br>
     
     <img src="https://github.com/rachmat-fullstack/klink-test-ecommerce-api/blob/main/screenshoot/add%20to%20cart.png">
